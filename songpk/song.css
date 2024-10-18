@@ -1,0 +1,89 @@
+.outer
+{
+	height:100%;
+	width:1200px;
+	background-color:silver;
+}
+.menu
+{
+	height:100px;
+	width:1200px;
+	background-color:navy;
+}
+.menu_left
+{
+	height:100px;
+	width:600px;
+	float:left;
+}
+.menu_right
+{
+	height:100px;
+	width:600px;
+	float:right;
+}
+.banner
+{
+	height:50px;
+	width:1200px;
+	background-color:white;
+}
+.work
+{
+	height:1100px;
+	width:1200px;
+	background-color:white;
+}
+.work_left
+{
+	height:1100px;
+	width:800px;
+	background-color:white;
+	float:left;
+}
+.work_right
+{
+	height:1100px;
+	width:400px;
+	float:right;
+}
+li
+{
+	text-align:left;
+	font-weight:bold;
+	font-size:large;
+}
+.work_menu
+{
+	height:50px;
+	width:400px;
+	background-color:darkcyan;
+	float:right;
+}
+.kk1
+{
+	height:700px;
+	width:700px;
+	padding:20px;
+	background-color:black;
+}
+.kk
+{
+	height:300px;
+	width:350px;
+	float:left;
+	margin:25px;
+	background-color:white;
+}
+.footer
+{
+	height:150px;
+	width:1200px;
+	background-color:silver;
+}
+.footer1
+{
+	height:100px;
+	width:1200px;
+	background-color:darkgray;
+}
